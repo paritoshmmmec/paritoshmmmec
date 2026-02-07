@@ -1,6 +1,6 @@
 - 👋 Hi, My name is Paritosh
 - 👀 I’m interested in building softwares.
-- 🌱 I’m currently learning distributed programming
+- 🌱 I’m currently building distributed services and agentic world
 
 
 <!---
